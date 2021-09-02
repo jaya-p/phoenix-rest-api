@@ -1,2 +1,2 @@
 # phoenix-rest-api
-based on sed -i 's/hostname: "localhost",/hostname: "db",/g' src/config/dev.exs
+based on https://lobotuerto.com/blog/building-a-json-api-in-elixir-with-phoenix/
